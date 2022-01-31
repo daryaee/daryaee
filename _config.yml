@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "air"
+title: "Daryaee - Github"
+title_separator: "|"
+name: "Mehdi Daryagholi"
+description: "This is a repo to organize my works"
